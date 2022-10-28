@@ -1,0 +1,4 @@
+attrs==22.1.0
+colorama==0.4.5
+future==0.18.2
+treelib==1.6.1
